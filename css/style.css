@@ -1,0 +1,29 @@
+header
+{
+  text-align: center;
+  width: 100%;
+}
+
+table
+{
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 50%;
+}
+
+td, th
+{
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+thead
+{
+  background-color: gray;
+}
+
+body
+{
+  text-align: center;
+}
